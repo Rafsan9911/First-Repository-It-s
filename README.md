@@ -1,2 +1,2 @@
-# First-Repository-It-s
-I am the Bust 
+# email-marketing-portfolio
+Professional Email Marketing Portfolio
